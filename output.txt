@@ -1,0 +1,36 @@
+=== Car Tracking & Route Optimization ===
+1.Insert new route
+2.Search a route
+3.Delete a route
+4.Display all saved routes
+5.Find & track shortest path
+6.Exit
+Enter your choice: 5
+Enter starting city: Muridke
+Enter destination city: Lahore
+Shortest Route: Muridke->Sheikhupura->Lahore
+Total Distance: 40 km
+
+Tracking Started
+Total Distance: 40 km
+Covered: 10 km | Remaining: 30 km | ETA: 0 hour 30 min
+Covered: 20 km | Remaining: 20 km | ETA: 0 hour 20 min
+Covered: 25 km | Remaining: 15 km | ETA: 0 hour 15 min
+Covered: 35 km | Remaining: 5 km | ETA: 0 hour 5 min
+Covered: 40 km | Remaining: 0 km | ETA: 0 hour 0 min
+Destination Reached
+
+
+Enter your choice: 5
+Enter starting city: Muridke
+Enter destination city: Gujranwala
+Shortest Route: Muridke->Gujranwala
+Total Distance: 35 km
+
+Tracking Started
+Total Distance: 35 km
+Covered: 10 km | Remaining: 25 km | ETA: 0 hour 25 min
+Covered: 20 km | Remaining: 15 km | ETA: 0 hour 15 min
+Covered: 30 km | Remaining: 5 km | ETA: 0 hour 5 min
+Covered: 35 km | Remaining: 0 km | ETA: 0 hour 0 min
+Destination Reached
